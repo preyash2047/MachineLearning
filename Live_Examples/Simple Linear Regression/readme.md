@@ -1,16 +1,9 @@
 Simple Linear Regression
-<br>
+<hr>
 
-In this program i have made model to predict the ice creeme revenu based on tempracture
+In this program, I have made a model predict the ice cream revenue based on temperature
 
 and following is the conclusion:
--> as temperature gets increased sales of ice cream get incressed
--> Highest revenu generated when the temprature is in between 11 celsius to 32 celsius
 
-
-
-
-
-
-
-
+* as the temperature gets increased sales of ice cream get increased
+* Highest revenue generated when the temperature is in between 11 Celsius to 32 celsius
