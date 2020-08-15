@@ -1,10 +1,10 @@
-Multiple Linear Regression
+Polynomial Regression
 <hr>
 
-In this program, I have made a model predict the life expectancy based on data*
+In this program, I have made a model predict the height based on age*
 
 and following is the conclusion:
 
-* As per the study of data* and selection of variable, I can conclude that life expectancy can be improv by improving the BMI index
+* height will incress till the xx age and then ...........
 
-* *Data: https://www.kaggle.com/kumarajarshi/life-expectancy-who
+* *Data: https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
