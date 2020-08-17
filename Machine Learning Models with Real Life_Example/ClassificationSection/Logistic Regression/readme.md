@@ -4,9 +4,6 @@ Logistic Classifier
 In this program, I have made a model classify the patient may have heart disease or not.
 <br>
 
-# Conclusion:
-
-
 > # Conclusion
 
 > In this model I have used data of 303 patient's healh of heart 
