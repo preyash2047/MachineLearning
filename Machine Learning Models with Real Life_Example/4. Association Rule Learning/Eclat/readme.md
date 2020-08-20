@@ -1,4 +1,4 @@
-Apriori
+Eclate
 <hr>
 
 In this program, I have made a model to identify most products bought together.
