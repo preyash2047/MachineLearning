@@ -3,7 +3,7 @@ Reinforcement Learning Upper Confidence Bound (UCB)
 
 # Graph as per dataset
 
-<img src="COVID-19 Symptoms.png" alt="COVID-19 Symptoms Chart" width="600" height="700">
+<img src="COVID-19 Symptoms.png" alt="COVID-19 Symptoms Chart" width="700" height="700">
 
 
 In this Analysis, I have used the dataset of COVID-19 3.1L Patient's Symptoms and conclude the following;
