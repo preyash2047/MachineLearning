@@ -1,12 +1,12 @@
-Reinforcement Learning Upper Confidence Bound (UCB)
+# Reinforcement Learning Upper Confidence Bound (UCB)
 <hr>
 
-# Graph as per dataset
+* In this Analysis, I have used the dataset of COVID-19 3.1L Patient's Symptoms and conclude the following;
+
+#### Graph as per dataset
 
 <img src="COVID-19 Symptoms.png" alt="COVID-19 Symptoms Chart" width="700" height="700">
 
-
-In this Analysis, I have used the dataset of COVID-19 3.1L Patient's Symptoms and conclude the following;
 
 1. in 85k patient major Symptom is Dry-Cough
 2. in 70k patient second major Symptom is Tiredness
