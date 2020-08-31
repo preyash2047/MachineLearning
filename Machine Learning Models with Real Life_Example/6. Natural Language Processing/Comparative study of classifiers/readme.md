@@ -1,8 +1,7 @@
 # Comparative Study of Classifiers
 <hr>
 
-> In this Analysis, I have used the dataset 1000 reviews to perform different classifier and found that Decision tree is winner of all.
-> But when the cost of false Negative is higher then batter to go with SVM as SVM is having heigher Recall then the others
+> In this Analysis, I have used the dataset 1000 reviews to perform different classifier and found that SVC is winner of all.
 
 Here is the Result:
 
