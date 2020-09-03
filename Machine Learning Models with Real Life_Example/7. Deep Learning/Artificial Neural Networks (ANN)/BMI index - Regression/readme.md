@@ -1,4 +1,4 @@
-Random Forest Regression
+Artificial Neural Networks (ANN)
 <hr>
 
 In this program, I have made a model predict the BMI index based on Gender's Height and weight.
@@ -6,7 +6,7 @@ In this program, I have made a model predict the BMI index based on Gender's Hei
 
 # Conclusion
 
-> In this model I have used data of 500 person Gender, Height, Weight and Index
+> I have used data of 500 person Gender, Height, Weight and Index
 
 > data terms:
 
@@ -22,6 +22,4 @@ In this program, I have made a model predict the BMI index based on Gender's Hei
   * 5 - Extreme Obesity
 
 > Conclusion:
-Random Forest Regression model is one of the perfect model to predict the index based on the gender's height and weight
-<br>
-As model gives the 95% accuracy
+Artificial Neural Networks (ANN) model gave the get the accuracy of 83.20 % whereas Random Forest regressor got the accuracy of 95 %, So it is too much important to select the right algorithm for the respective problem
