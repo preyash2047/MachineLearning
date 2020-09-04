@@ -1,4 +1,4 @@
-Artificial Neural Networks (ANN)
+Artificial Neural Networks (ANN) 
 <hr>
 
 In this program, I have made a model predict the BMI index based on Gender's Height and weight.
